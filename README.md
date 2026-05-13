@@ -1,8 +1,8 @@
 # business-card
 A simple business card made using html and css.
 
-#Technologies Used
+#Technologies Used -
 HTML , CSS
 
-#Author
+#Author -
 Priyanka Kulshrestha
